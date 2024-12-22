@@ -205,5 +205,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icarogago/project-deadpool-movie.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/icarogago/project-deadpool-movie/issues"
+  },
+  "homepage": "https://github.com/icarogago/project-deadpool-movie#readme",
   "description": ""
 }
